@@ -8,7 +8,7 @@ A Python QR code generator that publishes QR codes to Skynet and gets a skylink 
 You must install the following packages:
 * [siaskynet](https://pypi.org/project/siaskynet/)
 * [PyInputPlus](https://pypi.org/project/PyInputPlus/)
-* [qrcode] https://pypi.org/project/qrcode/
+* [qrcode](https://pypi.org/project/qrcode/)
 
 
 ## Usage
@@ -16,8 +16,8 @@ In your terminal run the following command:
 ```
 python3 qr_code_generator.py
 ```
-After input a text or URL, the application generates a QE code with a timestamp which will be saved locally. 
-And more important, it will be published to Skynet with a skylink that you can share to everyone.
+After input a text or URL, the application generates a QR code with a timestamp which will be saved locally. 
+And more important, it will be published to Skynet with a skylink that you can share with everyone.
 
 
 ## Demo Video
